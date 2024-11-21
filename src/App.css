@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+.Boxx {
+  background-color: #426f7b;
+  text-align: center;
+  margin: 2rem;
+  border-radius: 2rem;
+}
